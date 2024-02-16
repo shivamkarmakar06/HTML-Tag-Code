@@ -1,0 +1,10 @@
+*******Images*******
+
+1- <img>	    Defines an image
+2- <map>	    Defines a client-side image map
+3- <area>	    Defines an area inside an image map
+4- <canvas>	    Used to draw graphics, on the fly, via scripting (usually JavaScript)
+5- <figcaption>	    Defines a caption for a <figure> element
+6- <figure>	    Specifies self-contained content
+7- <picture>	    Defines a container for multiple image resources
+8- <svg>	    Defines a container for SVG graphics

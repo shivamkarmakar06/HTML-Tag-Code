@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>acronym = not supported in html5, use abbr insted</p>
+    
+    The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.
+    
+    <address>
+        Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br>
+        Visit us at:<br>
+        Example.com<br>
+        Box 564, Disneyland<br>
+        USA
+        </address>
+    
+    <p>This is normal text - <b>and this is bold text</b>.</p>
+    
+    <ul>
+        <li>User <bdi>Amit</bdi>: 60 points</li>
+        <li>User <bdi>karan</bdi>: 80 points</li>
+        <li>User <bdi>ram</bdi>: 90 points</li>
+      </ul>
+    
+    <bdo dir="rtl">
+        This text will go right-to-left.
+        </bdo>
+    
+    <p>big = not supported in html5, use CSS insted</p>
+    
+    <blockquote cite="http://www.worldwildlife.org/who/index.html">
+        For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
+        </blockquote>
+    
+    <p>center = not supported in html5, use CSS insted</p>
+
+    <p><cite>The Scream</cite> by Edward Munch. Painted in 1893.</p>
+
+    <p>The HTML <code>button</code> tag defines a clickable button.</p>
+    <p>The CSS <code>background-color</code> property defines the background color of an element.</p>
+
+    <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+
+    <p><dfn>HTML</dfn> is the standard markup language for creating web pages.</p>
+
+    <p>You <em>have</em> to hurry up!</p>
+    <p>We <em>cannot</em> live like this.</p>
+
+    <p>font = not supported in html5, use CSS insted</p>
+
+    <p><i>Lorem ipsum</i> is the most popular filler text in history.</p>
+    <p>The <i>RMS Titanic</i>, a luxury steamship, sank on April 15, 1912 after striking an iceberg.</p>
+
+    <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+
+    <p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+    <p>Press <kbd>Cmd</kbd> + <kbd>C</kbd> to copy text (Mac OS).</p>
+
+    <p>Do not forget to buy <mark>milk</mark> today.</p>
+
+    <label for="disk_c">Disk usage C:</label>
+    <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
+    <label for="disk_d">Disk usage D:</label>
+    <meter id="disk_d" value="0.6">60%</meter>
+
+    <pre>
+        Text in a pre element
+        is displayed in a fixed-width
+        font, and it preserves
+        both      spaces and
+        line breaks
+        </pre>
+
+    <label for="file">Downloading progress:</label>
+    <progress id="file" value="32" max="100"> 32% </progress>
+
+    <p>WWF's goal is to:
+        <q>Build a future where people live in harmony with nature.</q>
+        We hope they succeed.</p>
+
+    <ruby>
+        漢 <rp>(</rp><rt>ㄏㄢˋ</rt><rp>)</rp>
+        </ruby>
+
+    <p><s>Only 50 tickets left!</s></p>
+    <p>SOLD OUT!</p>
+
+    <p>Message from my computer:</p>
+    <p><samp>File not found.<br>Press F1 to continue</samp></p>
+
+    <p>This is some normal text.</p>
+    <p><small>This is some smaller text.</small></p>
+
+    <p>strike = not supported in html5, use del or s insted</p>
+
+    <strong>This text is important!</strong>
+
+    <p>This text contains <sub>subscript</sub> text.</p>
+
+    <p>This text contains <sup>superscript</sup> text.</p>
+
+    <button onclick="showContent()">Show hidden content</button>
+    <template>
+        <h2>Flower</h2>
+        <img src="img_white_flower.jpg" width="214" height="204">
+    </template>
+    <script>
+        function showContent() {
+        let temp = document.getElementsByTagName("template")[0];
+        let clon = temp.content.cloneNode(true);
+        document.body.appendChild(clon);}
+    </script>
+
+    <p>Open from <time>10:00</time> to <time>21:00</time> every weekday.</p>
+    <p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p>
+
+    <p>tt = not supported in html5, use CSS insted</p>
+
+    <p>This is some <u>mispeled</u> text.</p>
+
+    <p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.</p>
+
+    <p>To learn AJAX, you must be familiar with the XML<wbr>Http<wbr>Request Object.</p>
+</body>
+</html>

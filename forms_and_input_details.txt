@@ -1,0 +1,14 @@
+*******Forms and Input********
+
+1- <form>	    Defines an HTML form for user input
+2- <input>	    Defines an input control
+3- <textarea>	    Defines a multiline input control (text area)
+4- <button>	    Defines a clickable button
+5- <select>	    Defines a drop-down list
+6- <optgroup>	    Defines a group of related options in a drop-down list
+7- <option>	    Defines an option in a drop-down list
+8- <label>	    Defines a label for an <input> element
+9- <fieldset>	    Groups related elements in a form
+10- <legend>	    Defines a caption for a <fieldset> element
+11- <datalist>	    Specifies a list of pre-defined options for input controls
+12- <output>	    Defines the result of a calculation

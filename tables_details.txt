@@ -1,0 +1,12 @@
+******Tables*******
+
+1- <table>	Defines a table
+2- <caption>	Defines a table caption
+3- <th>	        Defines a header cell in a table
+4- <tr>	        Defines a row in a table
+5- <td>	        Defines a cell in a table
+6- <thead>	Groups the header content in a table
+7- <tbody>	Groups the body content in a table
+8- <tfoot>	Groups the footer content in a table
+9- <col>	Specifies column properties for each column within a <colgroup> element
+10- <colgroup>	Specifies a group of one or more columns in a table for formatting

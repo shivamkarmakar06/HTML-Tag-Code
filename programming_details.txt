@@ -1,0 +1,8 @@
+******Programming*******
+
+1- <script>	Defines a client-side script
+2- <noscript>	Defines an alternate content for users that do not support client-side scripts
+3- <applet>	Not supported in HTML5. Use <embed> or <object> instead, Defines an embedded applet.
+4- <embed>	Defines a container for an external (non-HTML) application
+5- <object>	Defines an embedded object
+6- <param>	Defines a parameter for an object

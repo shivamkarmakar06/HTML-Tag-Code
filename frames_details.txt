@@ -1,0 +1,6 @@
+*******Frames*******
+
+1- <frame>	    Not supported in HTML5, Defines a window (a frame) in a frameset.
+2- <frameset>	    Not supported in HTML5, Defines a set of frames.
+3- <noframes>	    Not supported in HTML5, Defines an alternate content for users that do not support frames.
+4- <iframe>	    Defines an inline frame

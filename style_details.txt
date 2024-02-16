@@ -1,0 +1,17 @@
+*******Styles and Semantics********
+
+1- <style>	Defines style information for a document
+2- <div>	Defines a section in a document
+3- <span>	Defines a section in a document
+4- <header>	Defines a header for a document or section
+5- <hgroup>	Defines a header and related content
+6- <footer>	Defines a footer for a document or section
+7- <main>	Specifies the main content of a document
+8- <section>	Defines a section in a document
+9- <search>	Defines a search section
+10- <article>	Defines an article
+11- <aside>	Defines content aside from the page content
+12- <details>	Defines additional details that the user can view or hide
+13- <dialog>	Defines a dialog box or window
+14- <summary>	Defines a visible heading for a <details> element
+15- <data>	Adds a machine-readable translation of a given content

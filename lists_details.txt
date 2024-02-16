@@ -1,0 +1,10 @@
+******Lists******
+
+1- <menu>	Defines an alternative unordered list
+2- <ul>	        Defines an unordered list
+3- <ol>	        Defines an ordered list
+4- <li>	        Defines a list item
+5- <dir>	Not supported in HTML5. Use <ul> instead, Defines a directory list.
+6- <dl>	        Defines a description list
+7- <dt>	        Defines a term/name in a description list
+8- <dd>	        Defines a description of a term/name in a description list
